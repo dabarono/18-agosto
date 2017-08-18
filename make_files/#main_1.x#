@@ -1,0 +1,2 @@
+	foo.o bar.o
+	g++ -o main_1.x foo.o bar.o
